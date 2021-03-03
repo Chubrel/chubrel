@@ -1,0 +1,4 @@
+﻿  lab7.cpp
+C:\Users\alex9\OneDrive\Desktop\Prog\Cpp\Labs\lab7\lab7\lab7.cpp(126,43): error C2664: "int count_increasing(const int **const ,const int)": невозможно преобразовать аргумент 1 из "int **" в "const int **const "
+C:\Users\alex9\OneDrive\Desktop\Prog\Cpp\Labs\lab7\lab7\lab7.cpp(126,34): message : В результате преобразования теряются квалификаторы
+C:\Users\alex9\OneDrive\Desktop\Prog\Cpp\Labs\lab7\lab7\lab7.cpp(72,5): message : см. объявление "count_increasing"
