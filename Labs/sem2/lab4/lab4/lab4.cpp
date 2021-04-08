@@ -7,6 +7,7 @@
  d) заменить последовательностью ks первое вхождение x, если такое есть.
 */
 
+
 #include <iostream>
 #include <string>
 #include <conio.h>
